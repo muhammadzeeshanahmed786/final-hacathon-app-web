@@ -1,1 +1,1 @@
-# final-hacathon-app-web
+# hacathon-app
